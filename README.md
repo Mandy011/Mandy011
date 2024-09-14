@@ -41,7 +41,6 @@ Welcome to my GitHub profile. I'm a passionate JavaScript developer with a love 
 ## 📚 Learn More
 
 - Check out my [GitHub Repositories](https://github.com/mandy011) for more of my work.
-- Read my [Blog](#) where I share tips and tutorials on JavaScript development.
 
 Thanks for visiting my profile! Feel free to explore my projects and connect with me. Happy coding! 🚀
 
