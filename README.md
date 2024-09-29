@@ -4,10 +4,9 @@ Welcome to my GitHub profile. I'm a passionate JavaScript developer with a love 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Awesome Project](#), which is a cutting-edge JavaScript application.
+- 🔭 I’m currently working on [Awesome Project](W3school clone link--> https://mandy011.github.io/W3school_clone/), which is a cutting-edge JavaScript application.
 - 🌱 I’m currently learning [React.js](https://reactjs.org/) and exploring [Node.js](https://nodejs.org/).
-- 👯 I’m looking to collaborate on open-source projects, especially those involving modern JavaScript frameworks.
-- 🤔 I’m looking for help with optimizing performance in large-scale JavaScript applications.
+- 👯 My-first-website ‎ 24 ‎June ‎2021 "I created my first website on June 24, 2021, to showcase my projects, learn HTML, CSS, and JavaScript, and express my creativity in web design and development."
 - 💬 Ask me about JavaScript, front-end or Back-end development, or anything tech-related!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-kaif-ali-25a14522b/) | [+91-9102701502] hellomdkaifali@gmail.com 
 - ⚡ Fun fact: I love coding while listening to synthwave music!
