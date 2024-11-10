@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a passionate JavaScript developer with a love 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Awesome Project](W3school clone link--> https://mandy011.github.io/W3school_clone/), which is a cutting-edge JavaScript application.
-- 🌱 I’m currently learning [React.js](https://reactjs.org/) and exploring [Node.js](https://nodejs.org/).
+- 🔭 I’m currently working on Nexon Logisitics, which is a cutting-edge JavaScript application.
+- 🌱 I’m currently learning Node Express Mongodb.
 - 👯 My-first-website ‎"I created my first website on June 24, 2021, to showcase my projects, learn HTML, CSS, and JavaScript(https://mandy011.github.io/My-first-website-24-June-2021/)"
 - 💬 Ask me about JavaScript, front-end or Back-end development, or anything tech-related!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-kaif-ali-25a14522b/) | [+91-9102701502] hellomdkaifali@gmail.com 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm a passionate JavaScript developer with a love 
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, Basic(c,c++)
-- **Front-end**: Html, Css, JavaScript, Bootsrap, Tailwind.
+- **Front-end**: Html, Css, JavaScript, Bootsrap.
 - **Back-end**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
 - **Tools**: Github, Visual studio
